@@ -4,3 +4,4 @@ This repository is for uploading the projects during intern pe internship
 1. CAR PRICE PREDICTION
 2. DIABETICS PREDICTION
 3. IPL WINNER PREDICTION
+4. BREAST CANCER DETECTION
